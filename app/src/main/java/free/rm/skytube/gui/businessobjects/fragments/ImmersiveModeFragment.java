@@ -32,7 +32,7 @@ import free.rm.skytube.businessobjects.Logger;
 public class ImmersiveModeFragment extends FragmentEx {
 
 	/**
-	 * Hide Android's bottom navigation bar.
+	 * Hide Android's bottom navigation bar.11
 	 */
 	protected void hideNavigationBar() {
 		if (isImmersiveModeEnabled()) {
